@@ -37,7 +37,7 @@ status = ''
 
 # Stream URL
 stream_url = 'http://192.168.1.63:8080/?action=stream'
-cap = cv2.VideoCapture(stream_url)
+cap = cv2.VideoCapture(0)
 
 # Streamlit UI Elements
 FRAME_WINDOW = st.image([])
