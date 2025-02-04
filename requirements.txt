@@ -1,7 +1,11 @@
 opencv-python-headless==4.7.0.72
-mediapipe==0.8.9
+mediapipe==0.10.20
+streamlit==1.22.0
+rich>=10.14.0
+markdown-it-py>=2.2.0
+pygments<3.0.0,>=2.13.0
+mdurl~=0.1
 numpy
-streamlit
 tensorflow
 gtts
 scikit-learn
