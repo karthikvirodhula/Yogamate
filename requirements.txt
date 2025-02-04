@@ -1,0 +1,13 @@
+opencv-python
+numpy
+streamlit
+mediapipe
+tensorflow
+setuptools
+gtts
+scikit-learn
+pygame
+pyttsx3
+gradio
+flask
+playsound
